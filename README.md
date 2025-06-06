@@ -6,7 +6,7 @@
 
 - 🔭 I’m an **IT** graduate
 
-- 🌱 I love to build stuff 
+- 🌱 I love building stuff 
 
 - 📫 How to reach me **abdulahad_dm@outlook.com**
 
