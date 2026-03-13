@@ -2,9 +2,15 @@
 
 <br>
 
-**Fullstack Developer | TypeScript • React • Node.js**
-
-I’ve spent my career building, breaking, and fixing systems until they’re resilient. I don't chase trends, I build foundations. Whether it’s a relational database or a complex frontend state, I focus on what makes the product work for the user and the code work for the team.
+### `> about`
+ 
+I've spent my career building, breaking, and fixing systems until they're resilient. Not just getting things to work — getting them to *keep* working under pressure, at scale, with a team that has to maintain it six months from now.
+ 
+I don't chase trends. I build foundations. A well-modeled schema, a clean API contract, a component that doesn't leak state, these are the things that compound over time. Flashy tech choices don't impress me. Boring, solid code that ships and holds up does.
+ 
+My stack sits in the PERN world — **PostgreSQL, Express, React, Node.js** with **TypeScript** throughout. I care about the seams between layers as much as the layers themselves: how the database schema shapes the API, how the API shapes the frontend, how all of it shapes the user's experience.
+ 
+I write code for the person who reads it next, not just the machine that runs it.
 
 &nbsp;
 
