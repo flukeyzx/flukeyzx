@@ -41,4 +41,4 @@ I'm not big on buzzwords. The work speaks.
 
 &nbsp;
 
-📬 &nbsp; **abdulahad_dm@outlook.com** &nbsp;·&nbsp; Open to interesting problems.
+📬 &nbsp; **ahadcodes.dev@gmail.com.com** &nbsp;·&nbsp; Open to interesting problems.
