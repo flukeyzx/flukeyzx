@@ -2,11 +2,9 @@
 
 <br>
 
-I write code that ships. Fullstack by practice — I've worked on both ends long enough to know where things break and why. I pick the right tool for the job, not the trendiest one.
+**Fullstack Developer | TypeScript • React • Node.js**
 
-Right now I spend most of my time in **TypeScript**, **React**, and **Node.js**. I've built and maintained REST APIs, wired up databases (relational and not), and dealt with all the fun that comes with keeping real products running for real users.
-
-I'm not big on buzzwords. The work speaks.
+I’ve spent my career building, breaking, and fixing systems until they’re resilient. I don't chase trends, I build foundations. Whether it’s a relational database or a complex frontend state, I focus on what makes the product work for the user and the code work for the team.
 
 &nbsp;
 
